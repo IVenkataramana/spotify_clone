@@ -5,7 +5,7 @@ body{
     background-color: black;
     color : white;
 }
-/* .main{
+.main{
     display : grid;
     grid-template-rows: 90vh 10vh;
     grid-template-columns: 25vw 1fr;
@@ -22,7 +22,7 @@ body{
 .music-player{
     grid-column: 1/3;
     
-} */
+}
 .main{
     display : flex;
     flex-direction: row;
